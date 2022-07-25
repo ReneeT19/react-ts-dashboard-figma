@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-ts-dashboard-figma/static/css/main.4cc25a5e.chunk.css",
+    "main.js": "/react-ts-dashboard-figma/static/js/main.1e83f723.chunk.js",
+    "main.js.map": "/react-ts-dashboard-figma/static/js/main.1e83f723.chunk.js.map",
+    "runtime-main.js": "/react-ts-dashboard-figma/static/js/runtime-main.af6393ab.js",
+    "runtime-main.js.map": "/react-ts-dashboard-figma/static/js/runtime-main.af6393ab.js.map",
+    "static/js/2.a7017be1.chunk.js": "/react-ts-dashboard-figma/static/js/2.a7017be1.chunk.js",
+    "static/js/2.a7017be1.chunk.js.map": "/react-ts-dashboard-figma/static/js/2.a7017be1.chunk.js.map",
+    "static/js/3.60a37aff.chunk.js": "/react-ts-dashboard-figma/static/js/3.60a37aff.chunk.js",
+    "static/js/3.60a37aff.chunk.js.map": "/react-ts-dashboard-figma/static/js/3.60a37aff.chunk.js.map",
+    "index.html": "/react-ts-dashboard-figma/index.html",
+    "static/css/main.4cc25a5e.chunk.css.map": "/react-ts-dashboard-figma/static/css/main.4cc25a5e.chunk.css.map",
+    "static/js/2.a7017be1.chunk.js.LICENSE.txt": "/react-ts-dashboard-figma/static/js/2.a7017be1.chunk.js.LICENSE.txt",
+    "static/media/cartIcon.04714697.svg": "/react-ts-dashboard-figma/static/media/cartIcon.04714697.svg",
+    "static/media/houseIcon.da02fe38.svg": "/react-ts-dashboard-figma/static/media/houseIcon.da02fe38.svg",
+    "static/media/transportIcon.442d2bdd.svg": "/react-ts-dashboard-figma/static/media/transportIcon.442d2bdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af6393ab.js",
+    "static/js/2.a7017be1.chunk.js",
+    "static/css/main.4cc25a5e.chunk.css",
+    "static/js/main.1e83f723.chunk.js"
+  ]
+}
